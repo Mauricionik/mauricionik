@@ -12,7 +12,7 @@
     <item>
       <title>hello world</title>
       <link>blog url/2015/01/16/hello-world.html</link>
-      <description>&lt;h2&gt;Jekyll&lt;/h2&gt;
+      <description>&lt;h3&gt;Jekyll&lt;/h3&gt;
 
 &lt;p&gt;This is a hello world using jekyll and github pages! Awesome.&lt;/p&gt;
 </description>
