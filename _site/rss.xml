@@ -5,10 +5,20 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>Your New Jekyll Site</title>
+    <title>Maurício Fritsch</title>
     <link>blog url</link>
-    <description>Blogging about stuffs</description>
-    <pubDate>Sun, 10 Nov 2013 08:18:00 -0200</pubDate>
+    <description>Desenvolvimento e Gerenciamento de Software</description>
+    <pubDate>Fri, 16 Jan 2015 01:56:00 -0200</pubDate>
+    <item>
+      <title>hello world</title>
+      <link>blog url/2015/01/16/hello-world.html</link>
+      <description>&lt;h2&gt;Jekyll&lt;/h2&gt;
+
+&lt;p&gt;This is a hello world using jekyll and github pages! Awesome.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 16 Jan 2015 01:56:00 -0200</pubDate>
+      <dc:date>2015-01-16T01:56:00-02:00</dc:date>
+    </item>
     <item>
       <title>Welcome to Jekyll!</title>
       <link>blog url/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
@@ -18,6 +28,6 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
       <pubDate>Sun, 10 Nov 2013 08:18:00 -0200</pubDate>
       <dc:date>2013-11-10T08:18:00-02:00</dc:date>
     </item>
-    <dc:date>2013-11-10T08:18:00-02:00</dc:date>
+    <dc:date>2015-01-16T01:56:00-02:00</dc:date>
   </channel>
 </rss>
