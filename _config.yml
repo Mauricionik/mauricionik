@@ -1,7 +1,6 @@
 name: Maurício Fritsch
 description: Desenvolvimento e Gerenciamento de Software
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
-
 markdown: redcarpet
 highlighter: pygments
 logo: false
@@ -13,3 +12,6 @@ google_analytics: 'UA-XXXXXXXX-X'
 # Details for the RSS feed generator
 url:            'blog url'
 author:         'Mauricio Fritsch'
+
+urls:
+    about: /sobre
