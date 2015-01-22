@@ -6,28 +6,26 @@
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
     <title>Maurício Fritsch</title>
-    <link>blog url</link>
+    <link>http://mauricionik.github.io/</link>
     <description>Desenvolvimento e Gerenciamento de Software</description>
-    <pubDate>Fri, 16 Jan 2015 01:56:00 -0200</pubDate>
+    <pubDate>Thu, 22 Jan 2015 15:20:00 -0200</pubDate>
     <item>
       <title>hello world</title>
-      <link>blog url/2015/01/16/hello-world.html</link>
-      <description>&lt;h3&gt;Jekyll&lt;/h3&gt;
-
-&lt;p&gt;This is a hello world using jekyll and github pages! Awesome.&lt;/p&gt;
+      <link>http://mauricionik.github.io//2015/01/22/hello-world.html</link>
+      <description>&lt;p&gt;Leitor! Este mero blog é feito com Jekyll e hospedado no Github Pages a instalação foi rápida seguindo os passos do meu amigo &lt;a href=&quot;href=%22http://jordankobellarz.github.io/jekyll/github/2015/01/14/como-criar-em-10-minutos-um-blog-gratis-com-jekyll-e-github-pages.html&quot;&gt;Jordan Kobellarz&lt;/a&gt; com quem trabalho e divido experiências de desenvolvimento de software.&lt;/p&gt;
 </description>
-      <pubDate>Fri, 16 Jan 2015 01:56:00 -0200</pubDate>
-      <dc:date>2015-01-16T01:56:00-02:00</dc:date>
+      <pubDate>Thu, 22 Jan 2015 15:20:00 -0200</pubDate>
+      <dc:date>2015-01-22T15:20:00-02:00</dc:date>
     </item>
     <item>
       <title>Welcome to Jekyll!</title>
-      <link>blog url/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
+      <link>http://mauricionik.github.io//thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
       <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 </description>
       <pubDate>Sun, 10 Nov 2013 08:18:00 -0200</pubDate>
       <dc:date>2013-11-10T08:18:00-02:00</dc:date>
     </item>
-    <dc:date>2015-01-16T01:56:00-02:00</dc:date>
+    <dc:date>2015-01-22T15:20:00-02:00</dc:date>
   </channel>
 </rss>
