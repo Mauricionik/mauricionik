@@ -7,7 +7,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://mauricionik.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-58884601-1'
 
 # Details for the RSS feed generator
 url:            'http://mauricionik.github.io/'
