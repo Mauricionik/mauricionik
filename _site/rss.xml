@@ -8,11 +8,19 @@
     <title>Maurício Fritsch</title>
     <link>http://mauricionik.github.io/</link>
     <description>Desenvolvimento e Gerenciamento de Software</description>
-    <pubDate>Thu, 22 Jan 2015 15:20:00 -0200</pubDate>
+    <pubDate>Tue, 10 Feb 2015 20:00:00 -0200</pubDate>
     <item>
-      <title>hello world</title>
+      <title>O Scrum tá na área</title>
+      <link>http://mauricionik.github.io//2015/02/10/O-scrum-ta-na-area.html</link>
+      <description>&lt;p&gt;Caros, estando nós no começo de 2015 falar sobre metodologias ágeis parece despender tempo falando mais do mesmo, já que o assunto tomou forma e força lá por 2001 com a publicação do &lt;a href=&quot;http://www.agilemanifesto.org/&quot;&gt;agile manifesto&lt;/a&gt;. Mas para quem está entrando agora na onda agile, para quem está buscando informações e cases, acredito que este post possa ajudar dando uma mera luz acerca do assunto do ponto de vista de quem conheceu o Scrum por mero acaso. De qualquer forma, quem quiser buscar mais informações, desde o surgimento até dados mais atuais sobre o uso do metodologia Scrum no mundo e sua aderência em diversos tipos de projeto, pode dar uma olha neste &lt;a href=&quot;http://pt.scribd.com/doc/237891933/Sera-o-Scrum-Suficiente&quot;&gt;artigo&lt;/a&gt; feito por mim e os colegas da pós. Agora chega de lenga lenga e vamos falar do que interessa!&lt;/p&gt;
+</description>
+      <pubDate>Tue, 10 Feb 2015 20:00:00 -0200</pubDate>
+      <dc:date>2015-02-10T20:00:00-02:00</dc:date>
+    </item>
+    <item>
+      <title>Hello world</title>
       <link>http://mauricionik.github.io//2015/01/22/hello-world.html</link>
-      <description>&lt;p&gt;Leitor! Este mero blog é feito com Jekyll e hospedado no Github Pages a instalação foi rápida seguindo os passos do meu amigo &lt;a href=&quot;href=%22http://jordankobellarz.github.io/jekyll/github/2015/01/14/como-criar-em-10-minutos-um-blog-gratis-com-jekyll-e-github-pages.html&quot;&gt;Jordan Kobellarz&lt;/a&gt; com quem trabalho e divido experiências de desenvolvimento de software.&lt;/p&gt;
+      <description>&lt;p&gt;Leitor! Este mero blog é feito com Jekyll e hospedado no Github Pages a instalação foi rápida seguindo os passos do meu amigo &lt;a href=&quot;http://jordankobellarz.github.io/jekyll/github/2015/01/14/como-criar-em-10-minutos-um-blog-gratis-com-jekyll-e-github-pages.html&quot;&gt;Jordan Kobellarz&lt;/a&gt; com quem trabalho e divido experiências de desenvolvimento de software.&lt;/p&gt;
 </description>
       <pubDate>Thu, 22 Jan 2015 15:20:00 -0200</pubDate>
       <dc:date>2015-01-22T15:20:00-02:00</dc:date>
@@ -26,6 +34,6 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
       <pubDate>Sun, 10 Nov 2013 08:18:00 -0200</pubDate>
       <dc:date>2013-11-10T08:18:00-02:00</dc:date>
     </item>
-    <dc:date>2015-01-22T15:20:00-02:00</dc:date>
+    <dc:date>2015-02-10T20:00:00-02:00</dc:date>
   </channel>
 </rss>
