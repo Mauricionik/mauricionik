@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "O Scrum tá na área"
+title:  "O Scrum tá na área (parte 1/3)"
 date:   2015-02-10 22:00:00
 tags: introduce scrum manager
 ---
