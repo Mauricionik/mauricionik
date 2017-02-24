@@ -2,7 +2,7 @@ name: Maurício Fritsch
 description: Desenvolvimento e Gerenciamento de Software
 meta_description: "Mauricio Fritsch, gerenciamento de desenvolvimento de Software"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
@@ -12,6 +12,12 @@ google_analytics: 'UA-58884601-1'
 # Details for the RSS feed generator
 url:            'http://mauricionik.github.io/'
 author:         'Mauricio Fritsch'
+    thumb: '/assets/images/poker_face.jpg'
+    facebook: 'https://www.facebook.com/mauricionik'
+    twitter: 'https://twitter.com/mauricionik'
+    email: 'mauricio.nik@hotmail.com'
 
 urls:
     about: /sobre
+    
+img_path: /assets/images/
