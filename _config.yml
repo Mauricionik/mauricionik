@@ -20,6 +20,6 @@ author:
         email: 'mauricio.nik@hotmail.com'
 
 urls:
-    about: /sobre
+    about: '/sobre'
     
-img_path: /assets/images/
+img_path: '/assets/images/'
