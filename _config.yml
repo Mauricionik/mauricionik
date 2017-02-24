@@ -1,7 +1,7 @@
 name: Maurício Fritsch
 description: Desenvolvimento e Gerenciamento de Software
 meta_description: "Mauricio Fritsch, gerenciamento de desenvolvimento de Software"
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
