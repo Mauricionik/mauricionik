@@ -12,5 +12,5 @@ Na reta final para que você entenda de forma fácil como funciona o Scrum, é f
 A resposta destas perguntas são a base para o Scrum Master saber o status da Sprint atual e quais decisões ele precisa tomar. Ao verificar por exemplo que algum membro do time tem impedimentos para realizar seu trabalho, o Scrum Master precisa entrar em ação auxiliando no que for necessário para que o problema seja rapidamente resolvido, isso para garantir a entrega no fim da Sprint!
 >Um dos eventos mais poderosos do Scrum Master é a Daily Meeting.
 
-**Conclusão: **
+**Conclusão:**
 Eu conheci o Scrum há muito tempo atrás e tive a oportunidade de ver como ele se molda à diferentes necessidades. Sua simplicidade e flexibilidade dá ao time uma ferramente incrível para que o trabalho seja organizado e percebido pelo cliente, no fim das contas ele terá agregado valor ao projeto e isso com artefatos e eventos baratos. Entender o Scrum é fácil, fazer as pessoas se adaptarem e adoratem sua cultura é outra história, exige paciência.
