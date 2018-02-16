@@ -16,4 +16,4 @@ São eles
 * **Respeito** por todos os outros membros, para serem capazes e independentes.
 * **Transparência**, ser transparente envolve coragem, e isso é extramamente necessário para detectar possíveis problemas sobre o trabalho que estão performando.
 
-Bem, estas são algumas características do Scrum, no último posto falaremos do Scrum Master e também das Daily Meeting e por fim, vou listar todos os artefatos, papéis e eventos do Scrum para você fique familiar com todos estes nomes :)
+Bem, estas são algumas características do Scrum, no último post falaremos do Scrum Master e também das Daily Meeting e por fim, vou listar todos os artefatos, papéis e eventos do Scrum para você fique familiar com todos estes nomes :)
