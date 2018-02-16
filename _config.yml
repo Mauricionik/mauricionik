@@ -13,8 +13,8 @@ google_analytics: 'UA-58884601-1'
 url:            'http://mauricionik.github.io/'
 author:
     name: 'Maurício Fritsch'
-    bio: Desenvolvedor de Sistemas. Apaixonado por tecnologia e inovação. Um compartilhador de informações.
     thumb: '/assets/images/poker_face.jpg'
+    bio: 'Desenvolvedor de Sistemas. Apaixonado por tecnologia e inovação. Um compartilhador de informações.'
     url:
         facebook: 'https://www.facebook.com/mauricionik'
         twitter: 'https://twitter.com/mauricionik'
