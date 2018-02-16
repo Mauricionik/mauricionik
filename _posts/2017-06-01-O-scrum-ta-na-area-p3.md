@@ -14,3 +14,12 @@ A resposta destas perguntas são a base para o Scrum Master saber o status da Sp
 
 **Conclusão:**
 Eu conheci o Scrum há muito tempo atrás e tive a oportunidade de ver como ele se molda à diferentes necessidades. Sua simplicidade e flexibilidade dá ao time uma ferramenta incrível para que o trabalho seja organizado e percebido pelo cliente, no fim das contas ele terá agregado valor ao projeto e isso com artefatos e eventos baratos. Entender o Scrum é fácil, fazer as pessoas se adaptarem e adoratem sua cultura é outra história, exige paciência.
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
