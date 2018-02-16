@@ -11,3 +11,12 @@ No começo de 2011 comecei a trabalhar em uma grande empresa de tecnologia educa
 >A simplicidade do quadro kanban que eu estava vendo facilitava tudo, era simplesmente olhar a coluna e ver o que era para ser feito.
 
 Pensando no processo das tarefas, logo me perguntei, de onde vem as tarefas que ali estavam? Logo descobri uma lista que seguia uma rígida sequência! Eis então um dos artefatos do Scrum, o product backlog. De acordo com o [scrum guide](http://www.scrumguides.org/scrum-guide.html) o product backlog é uma lista ordenada de tudo que é necessário ser feito no software, ela é a única fonte de requisitos. A lista é priorizada pelo Product Owner (o cliente, o manda chuva mesmo, aquele que paga a coisa toda) e ele é o único que pode altera-la, adicionar e remover coisas. Claro que ele pode e deve estar em contato com a parte técnica/negocial da equipe, o scrum master, mas isso eu explico depois. Vamos falar primeiro da importância dessa lista no próximo post.
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
